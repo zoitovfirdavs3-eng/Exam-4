@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "post_title": "todo",
+        "post_description": "post",
+        "createdAt": "1/20/2026, 10:21:08 AM",
+        "updatedAt": "1/20/2026, 10:22:40 AM",
+        "user_id": 3
+    }
+]

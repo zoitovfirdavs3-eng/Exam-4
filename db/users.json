@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "firstname": "Firdavs",
+        "lastname": "Zoitov",
+        "email": "firdavs@gmail.com",
+        "password": "$2b$10$Wczn/WrUEh1N4F3yi7a80ujK7wAoIglZ.XzvGQNfRLM7F3TgcKe9.",
+        "createdAt": "1/20/2026, 9:59:13 AM",
+        "updatedAt": null
+    },
+    {
+        "id": 2,
+        "firstname": "Imomali",
+        "lastname": "Mamatqulkov",
+        "email": "imomali@gmail.com",
+        "password": "$2b$10$2PK8teVVzItYHz5nhCAa5OVj7YJ.vZ5OI40vgHQN7s68TJl5RrwI.",
+        "createdAt": "1/20/2026, 9:59:40 AM",
+        "updatedAt": null
+    },
+    {
+        "id": 3,
+        "firstname": "Sardorbek",
+        "lastname": "To'xtayev",
+        "email": "sardor@gmail.com",
+        "password": "$2b$10$bPj/hDS6eUhcMLpBtuRZy.UrO1l./HcjKmsaCyKDnr0ueDR096jxO",
+        "createdAt": "1/20/2026, 10:00:06 AM",
+        "updatedAt": null
+    }
+]
